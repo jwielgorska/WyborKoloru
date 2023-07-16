@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WyborKoloru</string>
+    <string name="brak_wyboru">nie wybrano koloru</string>
+    <string-array name="kolory">
+        <item>biały</item>
+        <item>czerwony</item>
+        <item>niebieski</item>
+        <item>zielony</item>
+    </string-array>
+</resources>
